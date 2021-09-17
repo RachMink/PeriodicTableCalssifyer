@@ -1,0 +1,123 @@
+Atomic Number: 2 is valid
+Name: Helium
+Atomic Weight: 4
+Group: 18
+Noble Gas
+Protons:2  Neutrons:2  Electrons:2
+
+Atomic Number: 120 is NOT valid
+
+
+Atomic Number: 20 is valid
+Name: Calcium
+Atomic Weight: 40
+Group: 2
+Alkaline
+Protons:20  Neutrons:20  Electrons:20
+
+Atomic Number: 19 is valid
+Element not classified yet
+
+
+Atomic Number: 79 is valid
+Name: Gold
+Atomic Weight: 197
+Group: 11
+Not classified.
+Protons:79  Neutrons:118  Electrons:79
+
+Atomic Number: 8 is valid
+Name: Oxygen
+Atomic Weight: 16
+Group: 16
+Not classified.
+Protons:8  Neutrons:8  Electrons:8
+
+Atomic Number: 3 is valid
+Name: Lithium
+Atomic Weight: 7
+Group: 1
+Alkali metal
+Protons:3  Neutrons:4  Electrons:3
+
+Atomic Number: 10 is valid
+Name: Neon
+Atomic Weight: 20
+Group: 18
+Noble Gas
+Protons:10  Neutrons:10  Electrons:10
+
+Atomic Number: 11 is valid
+Name: Sodium
+Atomic Weight: 23
+Group: 1
+Alkali metal
+Protons:11  Neutrons:12  Electrons:11
+
+Atomic Number: 79 is valid
+Name: Gold
+Atomic Weight: 197
+Group: 11
+Not classified.
+Protons:79  Neutrons:118  Electrons:79
+
+Atomic Number: 18 is valid
+Name: Argon
+Atomic Weight: 40
+Group: 18
+Noble Gas
+Protons:18  Neutrons:22  Electrons:18
+
+Atomic Number: 6 is valid
+Name: Carbon
+Atomic Weight: 12
+Group: 14
+Not classified.
+Protons:6  Neutrons:6  Electrons:6
+
+Atomic Number: 65 is valid
+Element not classified yet
+
+
+Atomic Number: 30 is valid
+Name: Zinc
+Atomic Weight: 65
+Group: 12
+Not classified.
+Protons:30  Neutrons:35  Electrons:30
+
+Atomic Number: 36 is valid
+Name: Krypton
+Atomic Weight: 84
+Group: 18
+Noble Gas
+Protons:36  Neutrons:48  Electrons:36
+
+Atomic Number: 130 is NOT valid
+
+
+Atomic Number: 1 is valid
+Name: Hydrogen
+Atomic Weight: 1
+Group: 1
+Alkali metal
+Protons:1  Neutrons:0  Electrons:1
+
+Atomic Number: 82 is valid
+Name: Lead
+Atomic Weight: 207
+Group: 14
+Not classified.
+Protons:82  Neutrons:125  Electrons:82
+
+Atomic Number: 7 is valid
+Element not classified yet
+
+
+Atomic Number: 12 is valid
+Element not classified yet
+
+
+Total data in input: 20
+Total Valid data in input: 18
+Total errors in input: 2
